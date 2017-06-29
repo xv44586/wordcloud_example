@@ -1,0 +1,4 @@
+利用wordcloud制作词云
+
+1: 分词时，没有使用jieba.cut，而是使用了jieba.analyse.extract_tags,在结果中直接过滤掉停用次
+2: 可以通过使用自己的image，订制mask_img的形状

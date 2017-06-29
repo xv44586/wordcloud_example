@@ -1,0 +1,5 @@
+wordcloud
+jieba
+matplotlib
+numpy
+Pillow
